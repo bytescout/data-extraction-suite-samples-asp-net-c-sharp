@@ -1,0 +1,23 @@
+## Index of source code examples:
+
+\Batch Process PDF to Text with PDF Extractor SDK
+\Batch read barcodes to csv with barcode reader sdk
+\Decode page by page from pdf or tiff with barcode reader sdk
+\Display xls as html with spreadsheet sdk
+\Extract Attachments from PDF with PDF Extractor SDK
+\Extract Images from PDF with PDF Extractor SDK
+\Extract Text By Columns from PDF with PDF Extractor SDK
+\Extract Text From Page Area in PDF with PDF Extractor SDK
+\Extract Text from PDF with PDF Extractor SDK
+\Find Text in PDF with PDF Extractor SDK
+\Find Text With Hyphens in PDF with PDF Extractor SDK
+\Get PDF Document Information with PDF Extractor SDK
+\Make PDF Unsearchable with PDF Extractor SDK
+\OCR (Optical Character Recognition) in PDF with PDF Extractor SDK
+\Read barcode with barcode reader sdk
+\Read barcodes from image with barcode reader sdk
+\Read barcodes from pdf with barcode reader sdk
+\Read from live camera with barcode reader sdk
+\Split pdf by barcode with barcode reader sdk
+\ZUGFeRD Invoice Extraction with PDF Extractor SDK
+\Batch read barcodes to csv with barcode reader sdk\BarcodeFiles
